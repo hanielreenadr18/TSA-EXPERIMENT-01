@@ -7,7 +7,7 @@ To develop Python programs to plot and visualize time-series data such as popula
 - Python 3
 - Pandas
 - Matplotlib
-
+  
 ## Algorithm
 1. Start the program.
 2. Import the required libraries, Pandas and Matplotlib.
